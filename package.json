@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mongodb": "^5.7.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.6",
+    "@babel/core": "^7.22.8"
+  }
+}
