@@ -1,4 +1,4 @@
-Streamlined Shopping Experience
+The design aims to provide a streamlined shopping experience.
 
 
 
