@@ -2,7 +2,7 @@ The design aims to provide a streamlined shopping experience.
 
 
 
-## 🛠 Tech Stack
+## >_ Tech Stack
 
 * **Database:** MongoDB
 * **Back-End:** Express Server
